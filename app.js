@@ -1,1 +1,1 @@
-console.log(require('util').inspect, { depth: null }));
+import {  } from "helloworld";
