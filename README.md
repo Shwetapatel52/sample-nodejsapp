@@ -1,1 +1,1 @@
-# sample-nodejsapp
+This is my sample nodejs application to learn the NodeJS
